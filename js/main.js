@@ -35,4 +35,12 @@ if (weather ==="Sunny") {
 } else (weather=== "windy") 
     console.log("stay away from open space")
 
+//adding switch on the weather condition//
+
+switch (condicon) {
+    case n=0:
+    condicon ="sunny"
+}
+
+
 
