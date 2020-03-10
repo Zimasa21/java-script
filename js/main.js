@@ -40,6 +40,11 @@ if (weather ==="Sunny") {
 switch (condicon) {
     case n=0:
     condicon ="sunny"
+    break;
+    case n=1
+
+
+    
 }
 
 
