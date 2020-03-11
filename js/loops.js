@@ -19,3 +19,4 @@ console.log("passenger on bord " + i);
 
 
 }
+let name=prompt

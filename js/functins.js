@@ -5,7 +5,7 @@
 //program will fuction action on return
 
 function sayHello(name, surname){
-    var message = "Hello" + name + surname;
+    var message = "Hello " + name + surname;
     return message ;
 }
 //console.log("Hello")
@@ -15,3 +15,7 @@ let surname =prompt("enter surname");
   console.log(sayHello(name, surname));
 //let surname =prompt("enter surname");
    // console.log(s);
+
+function syaHello(name, surnam) {
+  alert("hello" + name + surnam)
+}
